@@ -53,7 +53,7 @@ public class DatosAutoSeviceImpl implements DatosAutoService {
 	    leertxt();
 	    }
 	    catch (IOException e){
-	      System.out.println("An error occurred.");
+	      System.out.println("Ocurrio un error.");
 	      e.printStackTrace();
 	    }
 	}
